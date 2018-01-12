@@ -1,0 +1,2 @@
+# Second Journal Entry- day 4
+I am happy I am more familiar with the terminal and updating my files to the repository. A lot of the little things are clearing up and for the most part I seem to be tracking with where we are in class.  I mostly have the project done to the minimum standard.
