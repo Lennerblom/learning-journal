@@ -1,0 +1,1 @@
+There is a lightbulb in VS code that is very usefull.  Also just working with git hub more is good.  I'm beginning to become more familiar using github.
