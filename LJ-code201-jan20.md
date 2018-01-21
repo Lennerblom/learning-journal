@@ -1,4 +1,4 @@
-#Learning Journal January 20, 2018
+# Learning Journal January 20, 2018
 Today I:
 1. got some more practise with GitHub including:
     * GitHub Pages and deploying my code
